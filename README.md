@@ -1,10 +1,10 @@
 # CenteredDiv
 
-## Problem Formulation: [9th Sep, 23:55]
+### Problem Formulation: [9th Sep, 23:55]
 
 ### 1. Is the problem relevant a year/2-years/5-years/10-years from now?
 
-  #### Problem statement: Food nutrition labels and their comparability
+#### Problem statement: Food nutrition labels and their comparability
 
   Grocery shopping is relevant to most, if not all of us. As consumers, we often take into account pricings and our unique personal preferences when we are shopping for groceries. Increasingly, many of us are becoming health-conscious in our lifestyle and specifically diet plans. However, it is often tedious for consumers like us to compare nutrition values for products of different brands.
 
