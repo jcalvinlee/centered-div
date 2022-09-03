@@ -9,10 +9,13 @@ Problem Formulation: [9th Sep, 23:55]
   Grocery shopping is relevant to most, if not all of us. As consumers, we often take into account pricings and our unique personal preferences when we are shopping for groceries. Increasingly, many of us are becoming health-conscious in our lifestyle and specifically diet plans. However, it is often tedious for consumers like us to compare nutrition values for products of different brands.
 
   For instance, if one would like to find the 3 in 1 coffee with the lowest sugar content available in Singapore, he/she would have to manually compare the nutrition values of the product of different brands by searching for the product on the website/mobile applications of grocery stores and scrutinize the product screenshots (refer to screenshot below). Existing groceries websites or mobile applications do not allow searching for products by nutrition values.
-
-  *Screenshots from Redmart and FairPrice*
-
-
+    <p align="center">
+     <i>Screenshots from Redmart and FairPrice</i>
+    </p>	
+    <p align="center">
+    <img src="https://iili.io/6BFSp4.md.png"  border="0"  width="400">
+    <img src="https://iili.io/6BKuFn.md.png"  border="0"  width="400">
+   </p>
   Additionally, there is no consistent format in the presentation of nutrition values by different brands. Referring to the same screenshots above, the information on Sodium content is available for Old Town coffee but not Nescafe. This further adds on to the complexity and tediousness of comparison.
 
   We do perceive the problem statement will likely remain relevant in the long term as more consumers become health conscious in their lifestyle.
@@ -21,8 +24,13 @@ Problem Formulation: [9th Sep, 23:55]
 
   The main challenge of this problem is the difficulty in digitizing the data for efficient comparison. Currently, there is no database available that stores the nutritional data of products in Singapore/South East Asia. In addition, the nutritional data of these products are mostly available in the form of physical labels, pictured below, or in the form of images where the data cannot be easily tabulated.
 
-  Screenshot of physical nutritional label on granola box
-
+  <p align="center">
+   <i>Screenshot of physical nutritional label on granola box</i>
+   </p>
+  <p align="center">
+  <img src="https://onecms-res.cloudinary.com/image/upload/s--BB0aXEcW--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/tdy-migration/eglabels1_0.jpeg?itok=4t7gRPDE" alt="drawing" width="400"/>
+  <p align="center">
+	  
   Most nutritional data found online are based on generic food items, e.g. bananas, oats, chicken. They do not represent the true nutritional value of the off the shelf products that we buy, due to the addition of other ingredients or preservatives. As such, the most reliable information would be obtained directly from the label on the product itself.
 
   Although similar applications do exist in other locations such as in the US, these apps are not accustomed to residents of Singapore/SEA as the products available in these applications are different. This solution aims to cater specifically to Singapore/SEA, by focusing on the off the shelf products available in the region. 
