@@ -1,8 +1,8 @@
 # CenteredDiv
 
-Problem Formulation: [9th Sep, 23:55]
+## Problem Formulation: [9th Sep, 23:55]
 
-- ### Is the problem relevant a year/2-years/5-years/10-years from now?
+### 1. Is the problem relevant a year/2-years/5-years/10-years from now?
 
   #### Problem statement: Food nutrition labels and their comparability
 
@@ -20,7 +20,7 @@ Problem Formulation: [9th Sep, 23:55]
 
   We do perceive the problem statement will likely remain relevant in the long term as more consumers become health conscious in their lifestyle.
 
-- ### What is the challenging aspect of the problem? Have others not thought of the problem or is the solution difficult to come up with?
+### 2. What is the challenging aspect of the problem? Have others not thought of the problem or is the solution difficult to come up with?
 
   The main challenge of this problem is the difficulty in digitizing the data for efficient comparison. Currently, there is no database available that stores the nutritional data of products in Singapore/South East Asia. In addition, the nutritional data of these products are mostly available in the form of physical labels, pictured below, or in the form of images where the data cannot be easily tabulated.
 
@@ -36,7 +36,7 @@ Problem Formulation: [9th Sep, 23:55]
   Although similar applications do exist in other locations such as in the US, these apps are not accustomed to residents of Singapore/SEA as the products available in these applications are different. This solution aims to cater specifically to Singapore/SEA, by focusing on the off the shelf products available in the region. 
 
 
--  ### What is your approach to solving it? What is novel about the solution?
+### 3. What is your approach to solving it? What is novel about the solution?
    #### Our solution
    The proposed solution is a web application that allows users to browse through off the shelf products in the database and compare the associated food nutrition values with similar products across different brands (e.g. Nestle yogurt against Marigold yogurt), or with other different products (e.g. Nestle yogurt against Meiji milk), in a consistent format.
 
@@ -55,7 +55,7 @@ To launch mobile applications (IOS, Android) on top of web application
    #### Novelty
    We came across several websites and mobile applications that provide generic nutrition values without zooming in to specific off the shelf food and beverage products. There are also a couple of existing apps having similar ideas but they do not cater to the Singapore market. Hence, our solution would be novel to Singapore/South East Asia and specifically catering to the off the shelf food and beverage products in these markets. 
 
-- ### How will you prevent people from copying your solution? (which you patent it?)
+### 4. How will you prevent people from copying your solution? (which you patent it?)
 
    #### Information Security
    The main asset of the project which, is the database of digitized nutritional labels, will be kept private by authenticating API endpoints and rate limiting to prevent web-scrapers. 
