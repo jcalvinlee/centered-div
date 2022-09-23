@@ -22,7 +22,7 @@
 
 ### 2. What is the challenging aspect of the problem? Have others not thought of the problem or is the solution difficult to come up with?
 
-  The main challenge of this problem is the difficulty in digitizing the data for efficient comparison. Currently, there is no database available that stores the nutritional data of products in Singapore/South East Asia. In addition, the nutritional data of these products are mostly available in the form of physical labels, pictured below, or in the form of images where the data cannot be easily tabulated.
+  The main challenge of this problem is the lack of an all-in-one platform for comparing off the shelf products. There are resources online that provide the nutritional data of various food items, but do not provide any means of benchmarking or comparison of nutritional value vs similar products. Web apps that suggest healthy food alternatives may not suggest specific products, which may vary in quality and nutrition, or suggest products that are not even available in the region. Healthy eating enthusiasts residing in Singapore/SEA would have to juggle multiple web apps to get all the information they want; one for retrieving the nutritional label of food items, one for comparing vs similar food items and one for checking its availability in the region.
 
   <p align="center">
    <i>Screenshot of physical nutritional label on granola box</i>
@@ -30,11 +30,8 @@
   <p align="center">
   <img src="https://onecms-res.cloudinary.com/image/upload/s--BB0aXEcW--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/tdy-migration/eglabels1_0.jpeg?itok=4t7gRPDE" alt="drawing" width="400"></img>
   </p>
-	  
-  Most nutritional data found online are based on generic food items, e.g. bananas, oats, chicken. They do not represent the true nutritional value of the off the shelf products that we buy, due to the addition of other ingredients or preservatives. As such, the most reliable information would be obtained directly from the label on the product itself.
-
-  Although similar applications do exist in other locations such as in the US, these apps are not accustomed to residents of Singapore/SEA as the products available in these applications are different. This solution aims to cater specifically to Singapore/SEA, by focusing on the off the shelf products available in the region. 
-
+  
+  Although similar applications do exist, they are all lacking in one or more ways. This solution aims to integrate all these useful features harmoniously to provide a holistic user experience when users decide which off the shelf food products are most suitable for their dietary needs.
 
 ### 3. What is your approach to solving it? What is novel about the solution?
    #### Our solution
